@@ -1,0 +1,1038 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WebApplicationApi/1.0.0": {
+        "dependencies": {
+          "AWSSDK.S3": "3.7.205.10",
+          "Swashbuckle.AspNetCore": "6.2.3",
+          "Swashbuckle.AspNetCore.Swagger": "6.2.3",
+          "Swashbuckle.AspNetCore.SwaggerGen": "6.2.3",
+          "Swashbuckle.AspNetCore.SwaggerUI": "6.2.3",
+          "System.Data.SqlClient": "4.8.5",
+          "BCE.AutoCount.ARAP": "1.9.0.0",
+          "BCE.AutoCount.CommonAccounting": "1.9.0.0",
+          "BCE.AutoCount": "1.9.0.0",
+          "BCE.AutoCount.MainEntry": "1.9.0.0",
+          "BCE.Utils": "1.9.0.0",
+          "BCE.Utils.UI": "1.9.0.0"
+        },
+        "runtime": {
+          "WebApplicationApi.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.204.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.204.1"
+          }
+        }
+      },
+      "AWSSDK.S3/3.7.205.10": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.204.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.205.10"
+          }
+        }
+      },
+      "Microsoft.Extensions.ApiDescription.Server/3.0.0": {},
+      "Microsoft.NETCore.Platforms/3.1.0": {},
+      "Microsoft.OpenApi/1.2.3": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
+          }
+        }
+      },
+      "Microsoft.Win32.Registry/4.7.0": {
+        "dependencies": {
+          "System.Security.AccessControl": "4.7.0",
+          "System.Security.Principal.Windows": "4.7.0"
+        }
+      },
+      "runtime.native.System.Data.SqlClient.sni/4.7.0": {
+        "dependencies": {
+          "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni": "4.4.0",
+          "runtime.win-x64.runtime.native.System.Data.SqlClient.sni": "4.4.0",
+          "runtime.win-x86.runtime.native.System.Data.SqlClient.sni": "4.4.0"
+        }
+      },
+      "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/sni.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "runtime.win-x64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-x64/native/sni.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "runtime.win-x86.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-x86/native/sni.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore/6.2.3": {
+        "dependencies": {
+          "Microsoft.Extensions.ApiDescription.Server": "3.0.0",
+          "Swashbuckle.AspNetCore.Swagger": "6.2.3",
+          "Swashbuckle.AspNetCore.SwaggerGen": "6.2.3",
+          "Swashbuckle.AspNetCore.SwaggerUI": "6.2.3"
+        }
+      },
+      "Swashbuckle.AspNetCore.Swagger/6.2.3": {
+        "dependencies": {
+          "Microsoft.OpenApi": "1.2.3"
+        },
+        "runtime": {
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "assemblyVersion": "6.2.3.0",
+            "fileVersion": "6.2.3.0"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerGen/6.2.3": {
+        "dependencies": {
+          "Swashbuckle.AspNetCore.Swagger": "6.2.3"
+        },
+        "runtime": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "assemblyVersion": "6.2.3.0",
+            "fileVersion": "6.2.3.0"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerUI/6.2.3": {
+        "runtime": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "assemblyVersion": "6.2.3.0",
+            "fileVersion": "6.2.3.0"
+          }
+        }
+      },
+      "System.Data.SqlClient/4.8.5": {
+        "dependencies": {
+          "Microsoft.Win32.Registry": "4.7.0",
+          "System.Security.Principal.Windows": "4.7.0",
+          "runtime.native.System.Data.SqlClient.sni": "4.7.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "assemblyVersion": "4.6.1.5",
+            "fileVersion": "4.700.22.51706"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.6.1.5",
+            "fileVersion": "4.700.22.51706"
+          },
+          "runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.6.1.5",
+            "fileVersion": "4.700.22.51706"
+          }
+        }
+      },
+      "System.Security.AccessControl/4.7.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Security.Principal.Windows": "4.7.0"
+        }
+      },
+      "System.Security.Principal.Windows/4.7.0": {},
+      "BCE.AutoCount.ARAP/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.ARAP.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.CommonAccounting/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.CommonAccounting.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.MainEntry/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.MainEntry.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.Utils/1.9.0.0": {
+        "runtime": {
+          "BCE.Utils.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.Utils.UI/1.9.0.0": {
+        "runtime": {
+          "BCE.Utils.UI.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "ICSharpCode.SharpZipLib/0.86.0.518": {
+        "runtime": {
+          "ICSharpCode.SharpZipLib.dll": {
+            "assemblyVersion": "0.86.0.518",
+            "fileVersion": "0.86.0.518"
+          }
+        }
+      },
+      "DevExpress.XtraGrid.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraGrid.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.XtraLayout.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraLayout.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.Utils.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.Utils.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.Data.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.Data.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.Printing.v13.1.Core/13.1.10.0": {
+        "runtime": {
+          "DevExpress.Printing.v13.1.Core.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.XtraPrinting.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraPrinting.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.XtraTreeList.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraTreeList.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.XtraEditors.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraEditors.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.XtraVerticalGrid.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraVerticalGrid.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.XtraPivotGrid.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraPivotGrid.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.XtraBars.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraBars.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.XtraCharts.v13.1.UI/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraCharts.v13.1.UI.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.XtraReports.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraReports.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.XtraReports.v13.1.Extensions/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraReports.v13.1.Extensions.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.PivotGrid.v13.1.Core/13.1.10.0": {
+        "runtime": {
+          "DevExpress.PivotGrid.v13.1.Core.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "BCE.AutoCount.GL/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.GL.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.Stock/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.Stock.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.Tools/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.Tools.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.ManageAccountBook/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.ManageAccountBook.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.Inquiry/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.Inquiry.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.Invoicing/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.Invoicing.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.StockMaint/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.StockMaint.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.BusinessFlow/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.BusinessFlow.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.Invoicing.Sales/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.Invoicing.Sales.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.Invoicing.Purchase/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.Invoicing.Purchase.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.GST/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.GST.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.GeneralMaint/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.GeneralMaint.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.ImportExport/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.ImportExport.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.PASync/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.PASync.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.Manufacturing/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.Manufacturing.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "BCE.AutoCount.GL.FinancialReport/1.9.0.0": {
+        "runtime": {
+          "BCE.AutoCount.GL.FinancialReport.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "DevExpress.BonusSkins.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.BonusSkins.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.RichEdit.v13.1.Core/13.1.10.0": {
+        "runtime": {
+          "DevExpress.RichEdit.v13.1.Core.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.Sparkline.v13.1.Core/13.1.10.0": {
+        "runtime": {
+          "DevExpress.Sparkline.v13.1.Core.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.XtraCharts.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraCharts.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.Charts.v13.1.Core/13.1.10.0": {
+        "runtime": {
+          "DevExpress.Charts.v13.1.Core.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.XtraCharts.v13.1.Wizard/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraCharts.v13.1.Wizard.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.Office.v13.1.Core/13.1.10.0": {
+        "runtime": {
+          "DevExpress.Office.v13.1.Core.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.Utils.v13.1.UI/13.1.10.0": {
+        "runtime": {
+          "DevExpress.Utils.v13.1.UI.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.XtraCharts.v13.1.Extensions/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraCharts.v13.1.Extensions.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.XtraNavBar.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraNavBar.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.XtraRichEdit.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraRichEdit.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.CodeParser.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.CodeParser.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.XtraWizard.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.XtraWizard.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.Docs.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.Docs.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.Spreadsheet.v13.1.Core/13.1.10.0": {
+        "runtime": {
+          "DevExpress.Spreadsheet.v13.1.Core.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.Snap.v13.1.Core/13.1.10.0": {
+        "runtime": {
+          "DevExpress.Snap.v13.1.Core.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.DataAccess.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.DataAccess.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      },
+      "DevExpress.Xpo.v13.1/13.1.10.0": {
+        "runtime": {
+          "DevExpress.Xpo.v13.1.dll": {
+            "assemblyVersion": "13.1.10.0",
+            "fileVersion": "13.1.10.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApplicationApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.204.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3QE4yFkJ8DlPPp7sm+uEUjiTecGxquVKjNw3LkRFyPkMHXIJApWJZ53FzGRyBpGhkqM0mmqtRnJw0UriGGN4CA==",
+      "path": "awssdk.core/3.7.204.1",
+      "hashPath": "awssdk.core.3.7.204.1.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.7.205.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9GktXsvG6RnWsmKcQvKSz9QIUpop4yjeBVRYT81heZMGe/DAlvgHDo7iNYTspZnfcwmI5L3VT++m5A1d7oeZrQ==",
+      "path": "awssdk.s3/3.7.205.10",
+      "hashPath": "awssdk.s3.3.7.205.10.nupkg.sha512"
+    },
+    "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LH4OE/76F6sOCslif7+Xh3fS/wUUrE5ryeXAMcoCnuwOQGT5Smw0p57IgDh/pHgHaGz/e+AmEQb7pRgb++wt0w==",
+      "path": "microsoft.extensions.apidescription.server/3.0.0",
+      "hashPath": "microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
+      "path": "microsoft.netcore.platforms/3.1.0",
+      "hashPath": "microsoft.netcore.platforms.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.OpenApi/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Nug3rO+7Kl5/SBAadzSMAVgqDlfGjJZ0GenQrLywJ84XGKO0uRqkunz5Wyl0SDwcR71bAATXvSdbdzPrYRYKGw==",
+      "path": "microsoft.openapi/1.2.3",
+      "hashPath": "microsoft.openapi.1.2.3.nupkg.sha512"
+    },
+    "Microsoft.Win32.Registry/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KSrRMb5vNi0CWSGG1++id2ZOs/1QhRqROt+qgbEAdQuGjGrFcl4AOl4/exGPUYz2wUnU42nvJqon1T3U0kPXLA==",
+      "path": "microsoft.win32.registry/4.7.0",
+      "hashPath": "microsoft.win32.registry.4.7.0.nupkg.sha512"
+    },
+    "runtime.native.System.Data.SqlClient.sni/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9kyFSIdN3T0qjDQ2R0HRXYIhS3l5psBzQi6qqhdLz+SzFyEy4sVxNOke+yyYv8Cu8rPER12c3RDjLT8wF3WBYQ==",
+      "path": "runtime.native.system.data.sqlclient.sni/4.7.0",
+      "hashPath": "runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512"
+    },
+    "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LbrynESTp3bm5O/+jGL8v0Qg5SJlTV08lpIpFesXjF6uGNMWqFnUQbYBJwZTeua6E/Y7FIM1C54Ey1btLWupdg==",
+      "path": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "runtime.win-x64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-38ugOfkYJqJoX9g6EYRlZB5U2ZJH51UP8ptxZgdpS07FgOEToV+lS11ouNK2PM12Pr6X/PpT5jK82G3DwH/SxQ==",
+      "path": "runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "runtime.win-x86.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YhEdSQUsTx+C8m8Bw7ar5/VesXvCFMItyZF7G1AUY+OM0VPZUOeAVpJ4Wl6fydBGUYZxojTDR3I6Bj/+BPkJNA==",
+      "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore/6.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cnzQDn0Le+hInsw2SYwlOhOCPXpYi/szcvnyqZJ12v+QyrLBwAmWXBg6RIyHB18s/mLeywC+Rg2O9ndz0IUNYQ==",
+      "path": "swashbuckle.aspnetcore/6.2.3",
+      "hashPath": "swashbuckle.aspnetcore.6.2.3.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.Swagger/6.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qOF7j1sL0bWm8g/qqHVPCvkO3JlVvUIB8WfC98kSh6BT5y5DAnBNctfac7XR5EZf+eD7/WasvANncTqwZYfmWQ==",
+      "path": "swashbuckle.aspnetcore.swagger/6.2.3",
+      "hashPath": "swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerGen/6.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+Xq7WdMCCfcXlnbLJVFNgY8ITdP2TRYIlpbt6IKzDw5FwFxdi9lBfNDtcT+/wkKwX70iBBFmXldnnd02/VO72A==",
+      "path": "swashbuckle.aspnetcore.swaggergen/6.2.3",
+      "hashPath": "swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerUI/6.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bCRI87uKJVb4G+KURWm8LQrL64St04dEFZcF6gIM67Zc0Sr/N47EO83ybLMYOvfNdO1DCv8xwPcrz9J/VEhQ5g==",
+      "path": "swashbuckle.aspnetcore.swaggerui/6.2.3",
+      "hashPath": "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    },
+    "System.Data.SqlClient/4.8.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fRqxut4lrndPHrXD+ht1XRmCL3obuKldm4XjCRYS9p5f7FSR7shBxAwTkDrpFMsHC9BhNgjjmUtiIjvehn5zkg==",
+      "path": "system.data.sqlclient/4.8.5",
+      "hashPath": "system.data.sqlclient.4.8.5.nupkg.sha512"
+    },
+    "System.Security.AccessControl/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JECvTt5aFF3WT3gHpfofL2MNNP6v84sxtXxpqhLBCcDRzqsPBmHhQ6shv4DwwN2tRlzsUxtb3G9M3763rbXKDg==",
+      "path": "system.security.accesscontrol/4.7.0",
+      "hashPath": "system.security.accesscontrol.4.7.0.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ojD0PX0XhneCsUbAZVKdb7h/70vyYMDYs85lwEI+LngEONe/17A0cFaRFqZU+sOEidcVswYWikYOQ9PPfjlbtQ==",
+      "path": "system.security.principal.windows/4.7.0",
+      "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
+    },
+    "BCE.AutoCount.ARAP/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.CommonAccounting/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.MainEntry/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.Utils/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.Utils.UI/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ICSharpCode.SharpZipLib/0.86.0.518": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraGrid.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraLayout.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Utils.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Data.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Printing.v13.1.Core/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraPrinting.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraTreeList.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraEditors.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraVerticalGrid.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraPivotGrid.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraBars.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraCharts.v13.1.UI/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraReports.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraReports.v13.1.Extensions/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.PivotGrid.v13.1.Core/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.GL/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.Stock/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.Tools/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.ManageAccountBook/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.Inquiry/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.Invoicing/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.StockMaint/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.BusinessFlow/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.Invoicing.Sales/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.Invoicing.Purchase/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.GST/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.GeneralMaint/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.ImportExport/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.PASync/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.Manufacturing/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCE.AutoCount.GL.FinancialReport/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.BonusSkins.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.RichEdit.v13.1.Core/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Sparkline.v13.1.Core/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraCharts.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Charts.v13.1.Core/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraCharts.v13.1.Wizard/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Office.v13.1.Core/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Utils.v13.1.UI/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraCharts.v13.1.Extensions/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraNavBar.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraRichEdit.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.CodeParser.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraWizard.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Docs.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Spreadsheet.v13.1.Core/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Snap.v13.1.Core/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.DataAccess.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpo.v13.1/13.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

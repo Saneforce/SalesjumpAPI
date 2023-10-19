@@ -1,0 +1,331 @@
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\appsettings.Development.json
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\appsettings.json
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\WebApplicationApi.exe
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\WebApplicationApi.deps.json
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\WebApplicationApi.runtimeconfig.json
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\WebApplicationApi.dll
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\WebApplicationApi.pdb
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\WebApplicationApi.csproj.AssemblyReference.cache
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\WebApplicationApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\WebApplicationApi.AssemblyInfoInputs.cache
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\WebApplicationApi.AssemblyInfo.cs
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\WebApplicationApi.csproj.CoreCompileInputs.cache
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\WebApplicationApi.MvcApplicationPartsAssemblyInfo.cache
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\staticwebassets\msbuild.WebApplicationApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\staticwebassets\msbuild.build.WebApplicationApi.props
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationApi.props
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.WebApplicationApi.props
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\staticwebassets.pack.json
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\staticwebassets.build.json
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\staticwebassets.development.json
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\scopedcss\bundle\WebApplicationApi.styles.css
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\WebApplicationApi.dll
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\refint\WebApplicationApi.dll
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\WebApplicationApi.pdb
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\WebApplicationApi.genruntimeconfig.cache
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\ref\WebApplicationApi.dll
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\Microsoft.OpenApi.dll
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\System.Data.SqlClient.dll
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\runtimes\win-arm64\native\sni.dll
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\runtimes\win-x64\native\sni.dll
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\runtimes\win-x86\native\sni.dll
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\WebApplicationApi.MvcApplicationPartsAssemblyInfo.cs
+D:\WebCoreApi\WebApplicationApi\obj\Release\net7.0\WebApplicationApi.csproj.CopyComplete
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\AWSSDK.Core.dll
+D:\WebCoreApi\WebApplicationApi\bin\Release\net7.0\AWSSDK.S3.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\appsettings.Development.json
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\appsettings.json
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\WebApplicationApi.exe
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\WebApplicationApi.deps.json
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\WebApplicationApi.runtimeconfig.json
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\WebApplicationApi.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\WebApplicationApi.pdb
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\AWSSDK.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\AWSSDK.S3.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\Microsoft.OpenApi.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\System.Data.SqlClient.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\runtimes\win-arm64\native\sni.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\runtimes\win-x64\native\sni.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\runtimes\win-x86\native\sni.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.ARAP.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.CommonAccounting.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.MainEntry.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.Utils.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.Utils.UI.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\ICSharpCode.SharpZipLib.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraGrid.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraLayout.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.Utils.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.Data.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.Printing.v13.1.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraPrinting.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraTreeList.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraEditors.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraVerticalGrid.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraPivotGrid.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraBars.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraCharts.v13.1.UI.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraReports.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraReports.v13.1.Extensions.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.PivotGrid.v13.1.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.GL.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.Stock.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.Tools.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.ManageAccountBook.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.Inquiry.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.Invoicing.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.StockMaint.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.BusinessFlow.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.Invoicing.Sales.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.Invoicing.Purchase.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.GST.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.GeneralMaint.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.ImportExport.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.PASync.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.Manufacturing.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\BCE.AutoCount.GL.FinancialReport.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\Newtonsoft.Json.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.BonusSkins.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.RichEdit.v13.1.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.Sparkline.v13.1.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraCharts.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.Charts.v13.1.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraCharts.v13.1.Wizard.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.Office.v13.1.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.Utils.v13.1.UI.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraCharts.v13.1.Extensions.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraNavBar.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraRichEdit.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.CodeParser.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.XtraWizard.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.Docs.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.Spreadsheet.v13.1.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.Snap.v13.1.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.DataAccess.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\bin\Release\net7.0\DevExpress.Xpo.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\WebApplicationApi.csproj.AssemblyReference.cache
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\WebApplicationApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\WebApplicationApi.AssemblyInfoInputs.cache
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\WebApplicationApi.AssemblyInfo.cs
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\WebApplicationApi.csproj.CoreCompileInputs.cache
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\WebApplicationApi.MvcApplicationPartsAssemblyInfo.cs
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\WebApplicationApi.MvcApplicationPartsAssemblyInfo.cache
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\staticwebassets\msbuild.WebApplicationApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\staticwebassets\msbuild.build.WebApplicationApi.props
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationApi.props
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.WebApplicationApi.props
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\staticwebassets.pack.json
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\staticwebassets.build.json
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\staticwebassets.development.json
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\scopedcss\bundle\WebApplicationApi.styles.css
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\WebApplicationApi.csproj.CopyComplete
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\WebApplicationApi.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\refint\WebApplicationApi.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\WebApplicationApi.pdb
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\WebApplicationApi.genruntimeconfig.cache
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi - Copy\obj\Release\net7.0\ref\WebApplicationApi.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\appsettings.Development.json
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\appsettings.json
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\WebApplicationApi.exe
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\WebApplicationApi.deps.json
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\WebApplicationApi.runtimeconfig.json
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\WebApplicationApi.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\WebApplicationApi.pdb
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\AWSSDK.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\AWSSDK.S3.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\Microsoft.OpenApi.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\Newtonsoft.Json.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\System.Data.SqlClient.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\runtimes\win-arm64\native\sni.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\runtimes\win-x64\native\sni.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\runtimes\win-x86\native\sni.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.ARAP.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.CommonAccounting.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.MainEntry.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.Utils.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.Utils.UI.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\ICSharpCode.SharpZipLib.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraGrid.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraLayout.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Utils.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Data.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Printing.v13.1.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraPrinting.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraTreeList.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraEditors.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraVerticalGrid.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraPivotGrid.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraBars.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraCharts.v13.1.UI.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraReports.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraReports.v13.1.Extensions.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.PivotGrid.v13.1.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.GL.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.Stock.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.Tools.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.ManageAccountBook.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.Inquiry.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.Invoicing.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.StockMaint.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.BusinessFlow.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.Invoicing.Sales.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.Invoicing.Purchase.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.GST.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.GeneralMaint.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.ImportExport.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.PASync.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.Manufacturing.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.GL.FinancialReport.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.BonusSkins.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.RichEdit.v13.1.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Sparkline.v13.1.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraCharts.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Charts.v13.1.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraCharts.v13.1.Wizard.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Office.v13.1.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Utils.v13.1.UI.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraCharts.v13.1.Extensions.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraNavBar.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraRichEdit.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.CodeParser.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraWizard.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Docs.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Spreadsheet.v13.1.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Snap.v13.1.Core.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.DataAccess.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Xpo.v13.1.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.csproj.AssemblyReference.cache
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.AssemblyInfoInputs.cache
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.AssemblyInfo.cs
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.csproj.CoreCompileInputs.cache
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.MvcApplicationPartsAssemblyInfo.cs
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.MvcApplicationPartsAssemblyInfo.cache
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\staticwebassets\msbuild.WebApplicationApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\staticwebassets\msbuild.build.WebApplicationApi.props
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationApi.props
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.WebApplicationApi.props
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\staticwebassets.pack.json
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\staticwebassets.build.json
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\staticwebassets.development.json
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\scopedcss\bundle\WebApplicationApi.styles.css
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.csproj.CopyComplete
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\refint\WebApplicationApi.dll
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.pdb
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.genruntimeconfig.cache
+F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\obj\Release\net7.0\ref\WebApplicationApi.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\appsettings.Development.json
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\appsettings.json
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\WebApplicationApi.exe
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\WebApplicationApi.deps.json
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\WebApplicationApi.runtimeconfig.json
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\WebApplicationApi.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\WebApplicationApi.pdb
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\AWSSDK.Core.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\AWSSDK.S3.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\Microsoft.OpenApi.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\Newtonsoft.Json.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\System.Data.SqlClient.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\runtimes\win-arm64\native\sni.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\runtimes\win-x64\native\sni.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\runtimes\win-x86\native\sni.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.ARAP.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.CommonAccounting.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.MainEntry.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.Utils.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.Utils.UI.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\ICSharpCode.SharpZipLib.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraGrid.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraLayout.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Utils.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Data.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Printing.v13.1.Core.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraPrinting.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraTreeList.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraEditors.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraVerticalGrid.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraPivotGrid.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraBars.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraCharts.v13.1.UI.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraReports.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraReports.v13.1.Extensions.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.PivotGrid.v13.1.Core.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.GL.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.Stock.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.Tools.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.ManageAccountBook.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.Inquiry.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.Invoicing.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.StockMaint.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.BusinessFlow.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.Invoicing.Sales.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.Invoicing.Purchase.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.GST.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.GeneralMaint.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.ImportExport.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.PASync.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.Manufacturing.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\BCE.AutoCount.GL.FinancialReport.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.BonusSkins.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.RichEdit.v13.1.Core.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Sparkline.v13.1.Core.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraCharts.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Charts.v13.1.Core.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraCharts.v13.1.Wizard.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Office.v13.1.Core.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Utils.v13.1.UI.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraCharts.v13.1.Extensions.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraNavBar.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraRichEdit.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.CodeParser.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.XtraWizard.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Docs.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Spreadsheet.v13.1.Core.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Snap.v13.1.Core.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.DataAccess.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\bin\Release\net7.0\DevExpress.Xpo.v13.1.dll
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.csproj.AssemblyReference.cache
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.AssemblyInfoInputs.cache
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.AssemblyInfo.cs
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.csproj.CoreCompileInputs.cache
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.MvcApplicationPartsAssemblyInfo.cs
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.MvcApplicationPartsAssemblyInfo.cache
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\staticwebassets\msbuild.WebApplicationApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\staticwebassets\msbuild.build.WebApplicationApi.props
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationApi.props
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.WebApplicationApi.props
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\staticwebassets.pack.json
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\staticwebassets.build.json
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\staticwebassets.development.json
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\scopedcss\bundle\WebApplicationApi.styles.css
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.csproj.CopyComplete
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.dll
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\refint\WebApplicationApi.dll
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.pdb
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\WebApplicationApi.genruntimeconfig.cache
+F:\websites\TestApi\WebApplicationApi_New\obj\Release\net7.0\ref\WebApplicationApi.dll

@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.S3" Version="3.7.205.10" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.2.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.2.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.2.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BCE.AutoCount">
+      <HintPath>C:\Program Files (x86)\AutoCount\Development\AppBuilder\BCE.AutoCount.dll</HintPath>
+    </Reference>
+    <Reference Include="BCE.AutoCount.ARAP">
+      <HintPath>C:\Program Files (x86)\AutoCount\Development\AppBuilder\BCE.AutoCount.ARAP.dll</HintPath>
+    </Reference>
+	  <Reference Include="BCE.AutoCount.CommonAccounting">
+		  <HintPath>C:\Program Files (x86)\AutoCount\Development\AppBuilder\BCE.AutoCount.CommonAccounting.dll</HintPath>
+	  </Reference>
+	  <Reference Include="BCE.AutoCount.MainEntry">
+		  <HintPath>C:\Program Files (x86)\AutoCount\Development\AppBuilder\BCE.AutoCount.MainEntry.dll</HintPath>
+	  </Reference>
+	  <Reference Include="BCE.AutoCount.Utils">
+		  <HintPath>C:\Program Files (x86)\AutoCount\Development\AppBuilder\BCE.Utils.dll</HintPath>
+	  </Reference>
+	  <Reference Include="BCE.AutoCount.Utils.UI">
+		  <HintPath>C:\Program Files (x86)\AutoCount\Development\AppBuilder\BCE.Utils.UI.dll</HintPath>
+	  </Reference>
+  </ItemGroup>
+</Project>

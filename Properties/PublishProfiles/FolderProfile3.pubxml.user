@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\websites\WebAPI\WebCoreApi\ya\WebApplicationApi_New\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2023-10-17T11:12:46.6365488Z;True|2023-10-13T16:56:58.1489080+05:30;True|2023-10-13T14:59:44.3306487+05:30;True|2023-10-13T12:50:54.2002185+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
