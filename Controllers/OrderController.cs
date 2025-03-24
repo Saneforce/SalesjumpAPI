@@ -5,6 +5,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Net;
 using Microsoft.AspNetCore.Cors;
+using System.Collections;
 
 namespace WebApplicationApi.Controllers
 {
@@ -37,14 +38,20 @@ namespace WebApplicationApi.Controllers
                     {
                         od = new TransOrderHead();
                         od.OrderTakenBy = Convert.ToString(dtRows["OrderTakenBy"]);
+                        od.EmpCode = Convert.ToString(dtRows["EmpId"]);
+                        od.DivisionCode = Convert.ToString(dtRows["DivisionId"]);
+                        od.DivisionName = Convert.ToString(dtRows["DivisionName"]);
                         od.DistributorCode = Convert.ToString(dtRows["DISTRIBUTORCODE"]);
+                        od.DistributorName = Convert.ToString(dtRows["DISTRIBUTORNAME"]);
                         od.DocNumber = Convert.ToString(dtRows["DOCNUMBER"]);
                         od.DocDate = Convert.ToString(dtRows["DOCDATE"]);
                         od.TransType = "Secondary Sales order";
                         od.OrderNo = Convert.ToString(dtRows["DOCNUMBER"]);
                         od.OrderDate = Convert.ToString(dtRows["ORDERDATE"]);
-                        od.CustomerId = Convert.ToString(dtRows["CUSTOMERID"]);
+                        od.CustomerCode = Convert.ToString(dtRows["CUSTOMERID"]);
                         od.CustomerName = Convert.ToString(dtRows["CUSTOMERNAME"]);
+                        od.RouteCode = Convert.ToString(dtRows["RouteId"]);
+                        od.RouteName = Convert.ToString(dtRows["RouteName"]);
                         od.ShippingAddress = Convert.ToString(dtRows["SHIPPINGADDRESS"]);
                         od.BillingAddress = Convert.ToString(dtRows["SHIPPINGADDRESS"]);
                         od.GstinNo = Convert.ToString(dtRows["GSTINNO"]);
@@ -85,7 +92,9 @@ namespace WebApplicationApi.Controllers
                 }
             }
 
-            return Ok(result);
+             Hashtable ht = new Hashtable();
+            ht.Add("data", result.ToList());
+            return Ok(ht);
         }
 
         // GET api/<OrderController>/5
